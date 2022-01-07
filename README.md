@@ -9,3 +9,5 @@ Okuduğum, kaybolmasın diye buraya not aldığım, geriye dönüp bakabileceği
 - [Data as a Product vs Data as a Service](https://medium.com/@itunpredictable/data-as-a-product-vs-data-as-a-service-d9f7e622dc55)
 - [Data Science Project to Improve your Business Understanding](https://towardsdatascience.com/data-science-project-to-improve-your-business-understanding-776386abbf63)
 - [Bring data analyst to the table](https://petrjanda.substack.com/p/bring-data-analyst-to-the-table)
+- [Who are Growth Product Managers?](https://medium.com/swlh/who-are-growth-product-managers-43626ffed444)
+- [Data Driven Product Management](https://towardsdatascience.com/data-driven-product-management-by-taner-akcok-ffd421cfa8d3)
