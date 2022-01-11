@@ -2,6 +2,13 @@
 
 Okuduğum, kaybolmasın diye buraya not aldığım, geriye dönüp bakabileceğim, tavsiye edebileceğim, beğendiğim şeyler.
 
+### 2. Hafta (10-16.01.2022)
+
+- [Best growth strategies used by successful products](https://uxdesign.cc/product-growth-strategies-for-b2c-products-10bac896e1a)
+- [Share Your Data Insights to Engage Your Colleagues](https://locallyoptimistic.com/post/share-your-data-insights-to-engage-your-colleagues/)
+- [How to Create Luck](https://www.swyx.io/create-luck/)
+- [Growth Hacker Skills in 2021: Technical, Analytical and Marketing Skills](https://growwithward.com/growth-hacker-skills/)
+
 ### 1. Hafta (03-09.01.2022)
 
 - [What is a data product manager?](https://data.world/blog/what-is-a-data-product-manager/)
