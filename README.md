@@ -8,6 +8,12 @@ Okuduğum, kaybolmasın diye buraya not aldığım, geriye dönüp bakabileceği
 - [Share Your Data Insights to Engage Your Colleagues](https://locallyoptimistic.com/post/share-your-data-insights-to-engage-your-colleagues/)
 - [How to Create Luck](https://www.swyx.io/create-luck/)
 - [Growth Hacker Skills in 2021: Technical, Analytical and Marketing Skills](https://growwithward.com/growth-hacker-skills/)
+- [How you can drive your product’s growth with data](https://uxdesign.cc/how-you-can-drive-your-products-growth-with-data-5030e6b4d777)
+- [Kendimizin daha iyisi olmak için?](https://atarikguney.medium.com/kendimizin-daha-iyisi-olmak-için-1413708555c9)
+- [İyi Yazılımcı Olmak İstiyorum, Ne Yapmalıyım?](https://atarikguney.medium.com/i̇yi-yazılımcı-olmak-i̇stiyorum-ne-yapmalıyım-6f6851c8b7d1)
+- [İki İleri Bir Geri Öğrenme Şekli](https://atarikguney.medium.com/i̇ki-i̇leri-bir-geri-öğrenme-şekli-53fbb03a3b15)
+- [How to Build an App Gamification Strategy for Mobile User Acquisition & Retention](https://www.mobileaction.co/blog/app-marketing/how-to-build-app-gamification-strategy/?utm_source=taha_linkedin)
+- [Why The NYT Spiral Graph Is A Failure. And A Success](https://www.practicalreporting.com/blog/2022/1/11/why-the-nyt-spiral-graph-is-a-failure-and-a-success).
 
 ### 1. Hafta (03-09.01.2022)
 
