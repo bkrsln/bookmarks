@@ -2,6 +2,17 @@
 
 Okuduğum, kaybolmasın diye buraya not aldığım, geriye dönüp bakabileceğim, tavsiye edebileceğim, beğendiğim şeyler.
 
+### 3. Hafta (17-23.01.2022)
+
+- [Why don't you capitalize your graph titles?](https://www.storytellingwithdata.com/blog/2022/1/12/you-asked-why-dont-you-capitalize-your-graph-titles)
+- [Decision Making at Netflix](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481)
+- [What is an A/B Test?](https://netflixtechblog.com/what-is-an-a-b-test-b08cc1b57962)
+- [With more girls pregnant, Zimbabwe pushes a return to school](https://apimagesblog.com/blog/2022/1/11/with-more-girls-pregnant-zimbabwe-pushes-a-return-to-school)
+- [Farklılaşmaya çalışmak boşuna bir çabadır](https://www.temelaksoy.com/farklilasmaya-calismak-bosuna-bir-cabadir/)
+- [Data Quality: The Good, The Bad, and The Ugly](https://www.kdnuggets.com/2022/01/data-quality-good-bad-ugly.html)
+- [From Vague to Value](https://towardsdatascience.com/from-vague-to-value-data-science-analytics-practitioner-insights-fed92a4bda08)
+- [The top 5 things PMs should know about engineering](https://www.lennysnewsletter.com/p/the-top-5-things-pms-should-know)
+
 ### 2. Hafta (10-16.01.2022)
 
 - [Best growth strategies used by successful products](https://uxdesign.cc/product-growth-strategies-for-b2c-products-10bac896e1a)
