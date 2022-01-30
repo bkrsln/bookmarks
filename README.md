@@ -2,6 +2,14 @@
 
 Okuduğum, kaybolmasın diye buraya not aldığım, geriye dönüp bakabileceğim, tavsiye edebileceğim, beğendiğim şeyler.
 
+### 4. Hafta (24-30.01.2022)
+
+- [The past, present, and future of agile's longtime friend: Product Management](https://www.atlassian.com/agile/product-management)
+- [Üretim Bandı Bülten #37: Kullanıcı tutma (Retention)-1: Nedir, neden önemli](https://uretimbandi.substack.com/p/kullanici-tutma-retention-nedir)
+- [Why a company is not a family?](https://ideas.ted.com/why-a-company-is-not-a-family-and-how-companies-can-bond-with-their-employees-instead/)
+- [Engineering Project Manager Olarak Öğrendiklerim](https://atarikguney.medium.com/engineering-project-manager-olarak-öğrendiklerim-47f65680e811)
+- [The Amplitude Guide to Product Analytics](https://amplitude.com/product-analytics)
+
 ### 3. Hafta (17-23.01.2022)
 
 - [Why don't you capitalize your graph titles?](https://www.storytellingwithdata.com/blog/2022/1/12/you-asked-why-dont-you-capitalize-your-graph-titles)
