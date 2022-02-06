@@ -2,6 +2,12 @@
 
 Okuduğum, kaybolmasın diye buraya not aldığım, geriye dönüp bakabileceğim, tavsiye edebileceğim, beğendiğim şeyler.
 
+### 5. Hafta (31.01-06.02.2022)
+
+- [The Complete Guide To Collecting Meaningful User Feedback](https://theproductmanager.com/topics/user-feedback/)
+- [Growth is about systems, not hacks or ideas.](https://blog.growthhackers.com/growth-is-about-systems-not-hacks-or-ideas-b4e245f457e)
+- [Product Owner vs. Business Analyst: The Importance of Both](https://mentormate.medium.com/product-owner-vs-business-analyst-the-importance-of-both-d813c31320d5)
+
 ### 4. Hafta (24-30.01.2022)
 
 - [The past, present, and future of agile's longtime friend: Product Management](https://www.atlassian.com/agile/product-management)
