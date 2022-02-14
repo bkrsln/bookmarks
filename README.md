@@ -1,6 +1,15 @@
 # Bookmarks
 
-Okuduğum, kaybolmasın diye buraya not aldığım, geriye dönüp bakabileceğim, tavsiye edebileceğim, beğendiğim şeyler.
+Okuduğum veya izlediğim, kaybolmasın diye buraya not aldığım, geriye dönüp bakabileceğim, tavsiye edebileceğim, beğendiğim şeyler.
+
+### 6. Hafta (07-13.02.2022)
+
+- [Experiment Design: From A to Z (Video)](https://www.youtube.com/watch?v=uHtfppoJhwY)
+- [Travel Is No Cure for the Mind](https://moretothat.com/travel-is-no-cure-for-the-mind/)
+- [How Discord dominated gaming](https://readlaunched.substack.com/p/-how-discord-dominated-gaming)
+- [Sorry but you are not a Product Manager](https://bootcamp.uxdesign.cc/sorry-but-you-are-not-a-product-manager-5cd36877c426)
+- [Geliştirirken Gelişmek Mümkün Mü? Hedef Çatışması.](https://gizemsaruhan.medium.com/geliştirirken-gelişmek-mümkün-mü-hedef-çatışması-892b4f1f9eb8?p=892b4f1f9eb8)
+- [Kariyer Yönetimi: Şirketler Ne Tip Elemanlar Arıyor (Video)](https://www.youtube.com/watch?v=3oXKd27n79Y)
 
 ### 5. Hafta (31.01-06.02.2022)
 
