@@ -1,6 +1,19 @@
 # Bookmarks
 
-Okuduğum veya izlediğim, kaybolmasın diye buraya not aldığım, geriye dönüp bakabileceğim, tavsiye edebileceğim, beğendiğim şeyler.
+İnternette okuduğum, dinlediğim veya izlediğim, kaybolmasın diye buraya not aldığım, geriye dönüp bakabileceğim, tavsiye edebileceğim, beğendiğim şeylerden bazıları.
+
+### 7. Hafta (14-20.02.2022)
+
+- [Yazılım ekiplerinde yönetici olmadan lider olmak!](https://www.mertsusur.com/p/staff-engineer-nedir?r=3bz90)
+- [Yazılımcılıktan Yöneticiliğe Geçiş](https://www.mertsusur.com/p/yazlmclktan-yoneticilige-gecis?r=3bz90)
+- [Stoizm, Yazılımcının İkilemi, Arcane, Hikaye Anlatıcılığı (Podcast)](https://podcasts.apple.com/tr/podcast/stoizm-yaz%C4%B1l%C4%B1mc%C4%B1n%C4%B1n-i-kilemi-arcane-hikaye-anlat%C4%B1c%C4%B1l%C4%B1%C4%9F%C4%B1/id1572640234?i=1000547313389)
+- [What Is a Growth Product Manager (GPM)?](https://www.productplan.com/glossary/growth-product-manager/)
+- [Growth Product Managers: What They Do and Why You Need Them](https://www.eleken.co/blog-posts/growth-product-managers-what-they-do-and-why-you-need-them)
+- [What is a Growth Product Manager?](https://userguiding.com/blog/growth-product-manager/)
+- [Every Company Needs a Growth Manager](https://hbr.org/2016/02/every-company-needs-a-growth-manager)
+- [Adem İlter ile Tasarım Sistemi Oluşturma, Yazılıma Başlama (Podcast)](https://podcasts.apple.com/tr/podcast/adem-i-lter-ile-tasarım-sistemi-oluşturma-yazılıma/id1572640234?i=1000548002889)
+- [Why Head of Growth Hires go Wrong](https://bettermarketing.pub/why-head-of-growth-hires-go-wrong-bf93aefbefa6)
+- [Who are Growth Product Managers?](https://medium.com/swlh/who-are-growth-product-managers-43626ffed444)
 
 ### 6. Hafta (07-13.02.2022)
 
@@ -10,6 +23,7 @@ Okuduğum veya izlediğim, kaybolmasın diye buraya not aldığım, geriye dön�
 - [Sorry but you are not a Product Manager](https://bootcamp.uxdesign.cc/sorry-but-you-are-not-a-product-manager-5cd36877c426)
 - [Geliştirirken Gelişmek Mümkün Mü? Hedef Çatışması.](https://gizemsaruhan.medium.com/geliştirirken-gelişmek-mümkün-mü-hedef-çatışması-892b4f1f9eb8?p=892b4f1f9eb8)
 - [Kariyer Yönetimi: Şirketler Ne Tip Elemanlar Arıyor (Video)](https://www.youtube.com/watch?v=3oXKd27n79Y)
+- [Tükenmişlik Sendromu: Yıkılmadık Ama Öyle Çok da Ayakta Değiliz (Podcast)](https://podcasts.apple.com/tr/podcast/t%C3%BCkenmi%C5%9Flik-sendromu-y%C4%B1k%C4%B1lmad%C4%B1k-ama-%C3%B6yle-%C3%A7ok-da-ayakta/id1591688335?i=1000539445406)
 
 ### 5. Hafta (31.01-06.02.2022)
 
