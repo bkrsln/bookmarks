@@ -2,6 +2,16 @@
 
 İnternette okuduğum, dinlediğim veya izlediğim, kaybolmasın diye buraya not aldığım, geriye dönüp bakabileceğim, tavsiye edebileceğim, beğendiğim şeylerden bazıları.
 
+### 8. Hafta (21-27.02.2022)
+
+- [Growth isn’t Marketing](https://bettermarketing.pub/growth-isnt-marketing-f0bf614ec0ce)
+- [Asking Why instead of What when building great products](https://uxdesign.cc/asking-the-question-why-instead-of-what-when-building-products-9d0cb59b3039)
+- [OKR Nedir?](https://www.albertsolino.com/blog/okr-nedir/)
+- [How to Read Faster and Understand More in English (Video)](https://www.youtube.com/watch?v=enk_b2Sscvw)
+- [The rise of the growth product manager](https://www.productled.org/foundations/the-rise-of-the-growth-product-manager)
+- [Your guide to PLG & community](https://kylepoyar.substack.com/p/your-guide-to-plg-and-community?token=eyJ1c2VyX2lkIjo1NTk3NzQ4LCJwb3N0X2lkIjo0Nzk1MzA3OCwiXyI6IlRpQ1FUIiwiaWF0IjoxNjQ0ODgxMzc2LCJleHAiOjE2NDQ4ODQ5NzYsImlzcyI6InB1Yi0zMTE0MzAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.5WFDla90fBBiOyDqy26lgMegrMHM40XUeASUKOiQxqw&r=3bz90&utm_source=url)
+- [Why I moved away from Notion](https://techwithdom.medium.com/why-i-moved-away-from-notion-c5ca0303959)
+
 ### 7. Hafta (14-20.02.2022)
 
 - [Yazılım ekiplerinde yönetici olmadan lider olmak!](https://www.mertsusur.com/p/staff-engineer-nedir?r=3bz90)
