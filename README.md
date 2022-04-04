@@ -2,6 +2,46 @@
 
 İnternette okuduğum, dinlediğim veya izlediğim, kaybolmasın diye buraya not aldığım, geriye dönüp bakabileceğim, tavsiye edebileceğim, beğendiğim şeylerden bazıları.
 
+### 13. Hafta (28.03-03.04.2022)
+
+- [Umut Sarıkaya’nın Sanatı ve Bir Naber Dergi Panoraması](https://www.ekdergi.com/umut-sarikayanin-sanati-ve-bir-naber-dergi-panoramasi/)
+
+### 12. Hafta (21-27.03.2022)
+
+- [How Does Swimming Change Your Body? (Video)](https://www.youtube.com/watch?v=0pxrI2qUPVE)
+- [The difference between KPIs and OKRs](https://www.whatmatters.com/resources/difference-between-okr-kpi)
+- [Improve this graph! (Video)](https://www.youtube.com/watch?v=st7_vPjq0SU)
+
+### 11. Hafta (14-20.03.2022)
+
+- [Top 5 Non-Technical Skills for Data Analysts (Video)](https://www.youtube.com/watch?v=yRWkSKRYCaI)
+- [4 key lessons I’ve learned about OKRs](https://mcleanonline.medium.com/4-key-lessons-ive-learned-about-okrs-3f4b902ae9f8)
+- [What Matters](https://www.whatmatters.com)
+- [How to learn any language in six months (Video)](https://www.youtube.com/watch?v=d0yGdNEWdn0)
+- [How To Remember Everything You Learn (Video)](https://www.youtube.com/watch?v=V-UvSKe8jW4)
+- [Learn English by making mistakes (Video)](https://www.youtube.com/watch?v=7wgJQdCvwDM)
+
+### 10. Hafta (07-13.03.2022)
+
+- [The Fastest Way to Learn a New Language: The Solar System Theory (Video)](https://www.youtube.com/watch?v=95NgtNgmnWA)
+- [The Fastest Way to Learn a New Language: The Video Game Map Theory (Video)](https://www.youtube.com/watch?v=3i1lNJPY-4Q)
+- [See 150 years of Yellowstone in these iconic Nat Geo images](https://www.nationalgeographic.com/travel/article/see-yellowstone-in-iconic-nat-geo-images?cmpid=org=ngp::mc=social::src=twitter::cmp=editorial::add=tw20220226travel-yellowstone150gallery&linkId=154898946)
+- [The Product Management Stack](https://medium.com/product-leadership-journal/the-product-management-stack-c53b99518131)
+- [OKRs vs KPIs — Understanding Measurements for your SaaS Product](https://userpilot.medium.com/okrs-vs-kpis-understanding-measurements-for-your-saas-product-8aedd3d930b6)
+- [The ultimate OKR guide](https://www.perdoo.com/okr-guide/)
+- [Change Your Mindset, Change Your English](https://www.youtube.com/watch?v=CSmOQw0EEw8)
+- [34 Product Lessons](https://ellenchisa.substack.com/p/34-product-lessons?s=r)
+- [What Is Product Usage Analytics And How To Implement It](https://theproductmanager.com/topics/product-usage-analytics/)
+- [Growth Hacker (2022): Become or Find a T-Shaped Marketer](https://gustdebacker.com/growth-hacker/)
+
+### 9. Hafta (28.02-06.03.2022)
+
+- [MIT How to Speak, IAP 2018 (Video)](https://www.youtube.com/watch?v=Unzc731iCUY)
+- [Relax with Birds, BBC Earth (Video)](https://www.youtube.com/watch?v=q1NuROtXxso)
+- [Overcoming resistance to new graphs (Video)](https://www.youtube.com/watch?v=-r8rfgNg_Lo)
+- [7 hacks I swear by as a Product Manager](https://tanayayadav.medium.com/product-management-hacks-i-swear-by-446eac6bcfd7)
+- [Kingdom of Heaven | Why the Director's Cut is Better (Video)](https://www.youtube.com/watch?v=pdqI49DKfhM)
+
 ### 8. Hafta (21-27.02.2022)
 
 - [Growth isn’t Marketing](https://bettermarketing.pub/growth-isnt-marketing-f0bf614ec0ce)
